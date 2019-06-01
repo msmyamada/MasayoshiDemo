@@ -1,0 +1,21 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="survey-questions.yml" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-9879e0b" tool-company="Microsoft" /><xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1f01d960-ff57-4b00-82fd-bfb1e348d309881a5ff77070533b3a9733f0837acccff8f477d5.skl</xliffext:skl_file_name><xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version><xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">881a5ff77070533b3a9733f0837acccff8f477d5</xliffext:ms.openlocfilehash><xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1f01d960-ff57-4b00-82fd-bfb1e348d309</xliffext:ms.sourcegitcommit><xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">06/01/2019</xliffext:ms.lasthandoff><xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">DocsCoreContent\survey-questions.yml</xliffext:ms.openlocfilepath></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Content is great</source>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>I like the format</source>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>I like hands on learning</source>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>I like experience points and badges</source>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Other(Please specify down below)</source>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Content is incorrect</source>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Hard to use Sandbox</source>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>No customer support</source>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>I expected something different</source>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Other(Please specify down below)</source>
+        </trans-unit></group></body></file></xliff>
